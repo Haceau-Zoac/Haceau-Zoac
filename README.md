@@ -3,7 +3,7 @@
 - 📕 I'm Haceau! I'm a middle school student in China.
 - 📫 You can reach me at haceau@qq.com or haceau@gmail.com.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haceau-Zoac&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haceau-Zoac&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haceau-Zoac&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) &emsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haceau-Zoac&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Haceau-Zoac/Haceau-Zoac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
